@@ -45,7 +45,7 @@ void findtop()
 	{
 		printf("\nTop position %d",top);
 		printf("\nTop value %d",stack[top]);
-	}
+	} 
 void display()
 	{
 		int i,x;
