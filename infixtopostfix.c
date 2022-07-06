@@ -49,7 +49,7 @@ int main()
 	printf("Enter infix form:");
 	scanf("%s",inf);
 	printf("\n");
-	e=infix;
+	e=inf;
 	while (*e!= '\0')
 	{
 		if (isalnum(*e))
