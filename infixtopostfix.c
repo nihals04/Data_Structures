@@ -46,7 +46,7 @@ int priority(char x)
 int main()
 {
 	char *e,x;
-	printf("Enter the expression in infix form:");
+	printf("Enter infix form:");
 	scanf("%s",inf);
 	printf("\n");
 	e=infix;
