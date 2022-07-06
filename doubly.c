@@ -150,7 +150,7 @@ void main()
 			case 8:
 				{
 				
-					printf("Thanyou!");
+					printf("!Thank YOU!");
 					exit(0);
 				}
 			printf("\n");
