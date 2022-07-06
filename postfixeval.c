@@ -53,7 +53,7 @@ int main()
 			}
 			push (n3);
 		}
-		e++;
+		g++;
 	}
 	printf("Result %s is:%d\n\n",exp,pop());
 	return 0;
